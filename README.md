@@ -1,72 +1,85 @@
-
-
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="150" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="150" height="150"/>
 </p>
 
 ---
 
 ### ✨ درباره من :
-سلام! من **مهدی** هستم، یک توسعه‌دهنده **Back-End** ، **Telegram-Bot** و عاشق یادگیری تکنولوژی‌های جدید. هدفم تبدیل شدن به یکی از بهترین برنامه‌نویس‌های بک‌اند و همکاری در پروژه‌های بزرگه. در حال حاضر روی **پایتون** و **جنگو** متمرکز هستم و همچنین به توسعه ربات‌های تلگرام علاقه‌مندم. 👨‍💻
+
+سلام! من **مهدی** هستم، یه توسعه‌دهنده‌ی **Back-End** و **Telegram-Bot** که عاشق یادگیری تکنولوژی‌های جدیده.  
+الان تمرکزم روی **PHP** و ساخت ربات‌های کاربردیه. 🎯
+
+---
 
 ### 🔎 مشخصات کلی من:
-- **📍 محل سکونت:** تهران
-- **🎓 در حال یادگیری:**  Python | Django 
-- **🎯 هدف اصلی:** ایجاد وب‌سایت‌ها و ربات‌های کاربردی  
-- **🕹️ علاقه‌مندی‌ها:** بازی‌های ویدیویی، تکنولوژی، یادگیری فریم‌ورک‌های جدید  
-- **🎉 سن:** 20 سال  
+
+- 📍 **محل سکونت:** تهران  
+- 🎓 **در حال یادگیری:** PHP | Laravel  
+- 🎯 **هدف اصلی:** ساخت ربات و وب‌سرویس‌های کاربردی  
+- 🕹️ **علاقه‌مندی‌ها:** برنامه‌نویسی، بازی و یادگیری  
+- 🎉 **سن:** 21 سال  
 
 ---
 
-# 💻 Skills and tools I use :
+## 💻 Skills and Tools I Use
 
-### 📚 Programming languages :
-- ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff)
-  
----
-### 📍 Frameworks :
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-  
----
-### ⚙️ Tools :
-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff)
-- ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+### 📚 Programming Languages:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 
 ---
-### 📌 GitHub Stats :
+
+### 📍 Frameworks:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
+
+---
+
+### ⚙️ Tools:
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+
+---
+
+### 📌 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
-## Let's Connect :
-اگر می خواهید همکاری کنید یا فقط در مورد فناوری گپ بزنید، می توانید با من تماس بگیرید!
+---
 
-🔗 [Telegram](https://t.me/MetixDir) | 📧 [Email](mailto:your-email@example.com)
+## 📬 Let's Connect
 
+اگه دنبال همکاری هستی یا فقط دوست داری راجع‌به تکنولوژی گپ بزنی، خوشحال میشم در ارتباط باشیم! 😊
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/MetixDir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mahditoossisany83@gmail.com)
 
 ---
-### 🧑‍💻 My coding info :
 
-```python
-class MahdiToossi:
-    def __init__(self):
-        self.name = "MahdiToossi"
-        self.age = 20
-        self.city = "Tehran"
-        self.role = "Back-End Developer & Telegram-Bot Developer"
-        self.skills = ["Python", "Django"]
+### 🧑‍💻 My Coding Info in PHP:
 
-    def get_mission(self):
-        return "Learning, improving, and building amazing projects!"
-    
-    def contact_me(self):
-        return {
-            "email": "mahditoossisany83@gmail.com",
-            "Telegram": "https://t.me/MetixDir"
-        }
+```php
+<?php
 
-me = MahdiToossi()
-print(me.get_mission())
+class MahdiToossi {
+    public $name = "MahdiToossi";
+    public $age = 20;
+    public $city = "Tehran";
+    public $role = "Back-End Developer & Telegram-Bot Developer";
+    public $skills = ["PHP", "Laravel"];
 
+    public function getMission() {
+        return "Learning, improving, and building amazing projects!";
+    }
+
+    public function contactMe() {
+        return [
+            "email" => "mahditoossisany83@gmail.com",
+            "Telegram" => "https://t.me/MetixDir"
+        ];
+    }
+}
+
+$me = new MahdiToossi();
+echo $me->getMission();
