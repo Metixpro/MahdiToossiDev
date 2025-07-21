@@ -52,7 +52,7 @@
 
 اگه دنبال همکاری هستی یا فقط دوست داری راجع‌به تکنولوژی گپ بزنی، خوشحال میشم در ارتباط باشیم! 😊
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/MetixDir)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/Cianyd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mahditoossisany83@gmail.com)
 
 ---
@@ -64,7 +64,7 @@
 
 class MahdiToossi {
     public $name = "MahdiToossi";
-    public $age = 20;
+    public $age = 21;
     public $city = "Tehran";
     public $role = "Back-End Developer & Telegram-Bot Developer";
     public $skills = ["PHP", "Laravel"];
@@ -76,7 +76,7 @@ class MahdiToossi {
     public function contactMe() {
         return [
             "email" => "mahditoossisany83@gmail.com",
-            "Telegram" => "https://t.me/MetixDir"
+            "Telegram" => "https://t.me/Cianyd"
         ];
     }
 }
